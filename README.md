@@ -6,6 +6,7 @@ For my class in Design Analysis and Algorithms we were given a project to choose
 The codes are about solving the knapsack problem using a greedy approach and a dynamic programming approach.
 
 <h2>Files</h2>
+
   1. testDataCreation.py - this code creates 22 datasets using random numbers.
   2. simpleRecursion.py - a brute force approach to solving knapsack problem.
   3. dynamicProgramming.py - dynamic programming approach to solving the knapsack problem.
